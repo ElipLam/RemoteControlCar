@@ -23,7 +23,7 @@
 - Link download android application: [download](https://github.com/ElipLam/RemoteControlCar/blob/master/CarController.apk)
 
 **3. How to install project**
-- [Instruction](https://github.com/ElipLam/RemoteControlCar/tree/master/Source)
+- [Instruction](./Source)
 - [Arduino UNO R3](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/Arduino/car_arduino)
 - [ESP8266](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/Arduino/car_esp)
 - [Android Studio Project](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/AndroidStudioProjects)
