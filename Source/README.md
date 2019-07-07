@@ -9,6 +9,7 @@ Create Window Server with Amazon Web Services and software installation:
 	- Create database mydatabasa, then import **install.sql** file in the *PHP_SERVER* directory to create table.
 -	Java SE JDK ( port 2345) version 12.0.1: TCP socket.
 Run **TCPClientServer.jar** in the *TCPClientServer\dist\\* directory to create socket server.
+
 *** Use “**ec2-13-58-108-38.us-east-2.compute.amazonaws.com.rdp**”file with password “****U!LbDta*gNgD6%?rqE)!qjHVgKDJ4Ouc**” to connect directly to the already created Server.
 
 **2)	Android:** 
