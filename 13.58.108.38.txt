@@ -1,0 +1,4 @@
+Public DNS	ec2-13-58-108-38.us-east-2.compute.amazonaws.com
+Public IP	http://13.58.108.38/
+User name	Administrator
+Password	U!LbDta*gNgD6%?rqE)!qjHVgKDJ4Ouc
