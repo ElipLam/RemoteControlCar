@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#FFFFFF</color>
+    <color name="login_bg">#4CAF50</color>
+    <color name="login_bnt">#22B126</color>
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#0000ffff</color>
+
+    <!-- ~~set color~~ -->
+    <color name="bg_header">#4CAF50</color>
+    <color name="text_username">#FFFFFF</color>
+    <color name="bg_memu">#FFFFFF</color>
+    <color name="text_group">#000000</color>
+    <color name="text_child">#CFA91E</color>
+    <color name="bg_child">@color/bg_memu</color>
+
+    <color name="bg_header_dark">#00574B</color>
+    <color name="text_username_dark">#FFFFFF</color>
+    <color name="bg_menu_dark">#222222</color>
+    <color name="text_group_dark">#FFFFFF</color>
+    <color name="text_child_dark">#FFFFFF</color>
+    <color name="bg_child_dark">@color/bg_menu_dark</color>
+
+    <color name="state_online">#19FF00</color>
+    <color name="state_offline">#292C2C</color>
+    <color name="state_busy">#E90000</color>
+    <color name="state_selected">#0459BD</color>
+    <!-- -->
+</resources>
