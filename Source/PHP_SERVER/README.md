@@ -1,5 +1,5 @@
 # RC Car
-- [PHP](https://github.com/attain7710/DieuKhienXeTuXa/tree/master/images/PHP.png)
+- <image src="/images/PHP.png" width="50%">
 - Server link: [dieukhienxe](http://13.58.108.38/dieukhienxe)
 ## Install database:
 - Create schema "mydatabase"
