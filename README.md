@@ -1,7 +1,6 @@
 # RemoteControlCar
 Use mobile through server to control arduino car via wifi ESP8266
 
-# RC Car
 <img src="/images/ic_launcher.png" width="50%">
 
 ## Control through SERVER
