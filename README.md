@@ -31,7 +31,7 @@
 - [Server TCP](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/TCPClientServer)
 
 **4. Video Demo** 
-[Video Youtube.com](https://www.youtube.com/watch?v=yZIspidyYyA&t=47s)
+[Video Youtube.com](https://www.youtube.com/watch?v=yZIspidyYyA)
 
 ## Control though ESP8266 WiFi Connection (Developing)
 ### Module WiFi ESP8266 open SERVER TCP connection, android smartphone has to connect to WiFi "ESP Car" to control the car
