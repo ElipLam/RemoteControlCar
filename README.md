@@ -1,5 +1,4 @@
 # RemoteControlCar
-Use mobile through server to control arduino car via wifi ESP8266
 
 <img src="/images/ic_launcher.png" width="50%">
 
@@ -18,7 +17,7 @@ Use mobile through server to control arduino car via wifi ESP8266
   + Login Activity: Login screen - authorized by PHP Server
   + Sigup Activity: Sigup screen - authorized by PHP Server
   + ChangePassword Activity: Change Password screen - authorized by PHP Server
-  + Main Activity: Main screen - send message to Server to control the car
+  + Main Activity: Main screen - send message to Server to control the car, check status car,change control mode,...
 - Admin dashboard: View and edit user accounts, car status
 	*[dieukhienxe](http://13.58.108.38/dieukhienxe)
 - Link download android application: [download](https://github.com/ElipLam/RemoteControlCar/blob/master/CarController.apk)
@@ -30,6 +29,9 @@ Use mobile through server to control arduino car via wifi ESP8266
 - [Android Studio Project](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/AndroidStudioProjects)
 - [Server PHP](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/PHP_SERVER)
 - [Server TCP](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/TCPClientServer)
+
+**4. Video Demo**
+[![Watch the video]](https://youtu.be/vt5fpE0bzSY)
 
 ## Control though ESP8266 WiFi Connection (Developing)
 ### Module WiFi ESP8266 open SERVER TCP connection, android smartphone has to connect to WiFi "ESP Car" to control the car
