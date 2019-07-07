@@ -21,7 +21,6 @@ Use mobile through server to control arduino car via wifi ESP8266
   + Main Activity: Main screen - send message to Server to control the car
 - Admin dashboard: View and edit user accounts, car status
 	*[dieukhienxe](http://13.58.108.38/dieukhienxe)
-- Link download android application: [download](http://13.58.108.38/dieukhienxe/download)
 
 **3. How to install project**
 - [Arduino UNO R3](https://github.com/attain7710/RemoteControlCar-Project/tree/master/Arduino/car_arduino_tcp)
