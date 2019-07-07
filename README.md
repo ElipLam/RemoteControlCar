@@ -24,11 +24,11 @@
 
 **3. How to install project**
 - [Instruction](./Source)
-- [Arduino UNO R3](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/Arduino/car_arduino)
-- [ESP8266](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/Arduino/car_esp)
-- [Android Studio Project](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/AndroidStudioProjects)
-- [Server PHP](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/PHP_SERVER)
-- [Server TCP](https://github.com/ElipLam/RemoteControlCar/tree/master/Source/TCPClientServer)
+- [Arduino UNO R3](./Source/Arduino/car_arduino)
+- [ESP8266](./Source/Arduino/car_esp)
+- [Android Studio Project](./Source/AndroidStudioProjects)
+- [Server PHP](./Source/PHP_SERVER)
+- [Server TCP](./Source/TCPClientServer)
 
 **4. Video Demo** 
 [Video Youtube.com](https://www.youtube.com/watch?v=yZIspidyYyA)
